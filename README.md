@@ -23,7 +23,7 @@ Do **not** use it to monitor networks you don’t own or control.
 ---
 
 ## Installation
-> **Windows only.
+> Windows only.
 
 ### Requirements:
 - Python 3.13
