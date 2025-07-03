@@ -23,8 +23,10 @@ Do **not** use it to monitor networks you don’t own or control.
 ---
 
 ## Installation
+> **Windows only.
 
-> **Windows only. Requires administrator privileges to sniff packets.**
+### Requirements:
+- Python 3.13
 
 ### 1. Clone the repository:
 ```bash
